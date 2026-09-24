@@ -1,0 +1,113 @@
+Global-Template/
+  demo/index.html
+  demo/lis-moi.txt
+  demo/assets/lis-moi.txt
+  demo/assets/css/lis-moi.txt
+  demo/assets/css/main.css
+  demo/assets/css/main.sass
+  demo/assets/css/base/_body-element.sass
+  demo/assets/css/base/_fonts.scss
+  demo/assets/css/base/_normalize.scss
+  demo/assets/css/base/_selection-colors.sass
+  demo/assets/css/base/_vars.sass
+  demo/assets/css/fonts/Montserrat-Black.eot
+  demo/assets/css/fonts/Montserrat-Black.svg
+  demo/assets/css/fonts/Montserrat-Black.ttf
+  demo/assets/css/fonts/Montserrat-Black.woff
+  demo/assets/css/fonts/Montserrat-Bold.eot
+  demo/assets/css/fonts/Montserrat-Bold.svg
+  demo/assets/css/fonts/Montserrat-Bold.ttf
+  demo/assets/css/fonts/Montserrat-Bold.woff
+  demo/assets/css/fonts/Montserrat-Light.eot
+  demo/assets/css/fonts/Montserrat-Light.svg
+  demo/assets/css/fonts/Montserrat-Light.ttf
+  demo/assets/css/fonts/Montserrat-Light.woff
+  demo/assets/css/fonts/Montserrat-Regular.eot
+  demo/assets/css/fonts/Montserrat-Regular.svg
+  demo/assets/css/fonts/Montserrat-Regular.ttf
+  demo/assets/css/fonts/Montserrat-Regular.woff
+  demo/assets/css/layouts/_grid.sass
+  demo/assets/css/modules/_about.sass
+  demo/assets/css/modules/_contact.sass
+  demo/assets/css/modules/_device-notification.sass
+  demo/assets/css/modules/_header.sass
+  demo/assets/css/modules/_hire.sass
+  demo/assets/css/modules/_intro.sass
+  demo/assets/css/modules/_outer-nav.sass
+  demo/assets/css/modules/_section.sass
+  demo/assets/css/modules/_side-nav.sass
+  demo/assets/css/modules/_work.sass
+  demo/assets/img/about-history.jpg
+  demo/assets/img/about-philosophy.jpg
+  demo/assets/img/about-visual.png
+  demo/assets/img/about-winners.jpg
+  demo/assets/img/contact-visual.png
+  demo/assets/img/introduction-visual.png
+  demo/assets/img/lis-moi.txt
+  demo/assets/img/logo.png
+  demo/assets/img/work-alex-nowak.jpg
+  demo/assets/img/work-metiew-smith.jpg
+  demo/assets/img/work-victory.jpg
+  demo/assets/js/functions-min.js
+  demo/assets/js/functions.js
+  demo/assets/js/lis-moi.txt
+  demo/assets/js/vendor/hammer-2.0.8.js
+  demo/assets/js/vendor/jquery-2.2.4.min.js
+  original/global @codingtemplate/index.html
+  original/global @codingtemplate/lis-moi.txt
+  original/global @codingtemplate/assets/lis-moi.txt
+  original/global @codingtemplate/assets/css/lis-moi.txt
+  original/global @codingtemplate/assets/css/main.css
+  original/global @codingtemplate/assets/css/main.sass
+  original/global @codingtemplate/assets/css/base/_body-element.sass
+  original/global @codingtemplate/assets/css/base/_fonts.scss
+  original/global @codingtemplate/assets/css/base/_normalize.scss
+  original/global @codingtemplate/assets/css/base/_selection-colors.sass
+  original/global @codingtemplate/assets/css/base/_vars.sass
+  original/global @codingtemplate/assets/css/fonts/Montserrat-Black.eot
+  original/global @codingtemplate/assets/css/fonts/Montserrat-Black.svg
+  original/global @codingtemplate/assets/css/fonts/Montserrat-Black.ttf
+  original/global @codingtemplate/assets/css/fonts/Montserrat-Black.woff
+  original/global @codingtemplate/assets/css/fonts/Montserrat-Bold.eot
+  original/global @codingtemplate/assets/css/fonts/Montserrat-Bold.svg
+  original/global @codingtemplate/assets/css/fonts/Montserrat-Bold.ttf
+  original/global @codingtemplate/assets/css/fonts/Montserrat-Bold.woff
+  original/global @codingtemplate/assets/css/fonts/Montserrat-Light.eot
+  original/global @codingtemplate/assets/css/fonts/Montserrat-Light.svg
+  original/global @codingtemplate/assets/css/fonts/Montserrat-Light.ttf
+  original/global @codingtemplate/assets/css/fonts/Montserrat-Light.woff
+  original/global @codingtemplate/assets/css/fonts/Montserrat-Regular.eot
+  original/global @codingtemplate/assets/css/fonts/Montserrat-Regular.svg
+  original/global @codingtemplate/assets/css/fonts/Montserrat-Regular.ttf
+  original/global @codingtemplate/assets/css/fonts/Montserrat-Regular.woff
+  original/global @codingtemplate/assets/css/layouts/_grid.sass
+  original/global @codingtemplate/assets/css/modules/_about.sass
+  original/global @codingtemplate/assets/css/modules/_contact.sass
+  original/global @codingtemplate/assets/css/modules/_device-notification.sass
+  original/global @codingtemplate/assets/css/modules/_header.sass
+  original/global @codingtemplate/assets/css/modules/_hire.sass
+  original/global @codingtemplate/assets/css/modules/_intro.sass
+  original/global @codingtemplate/assets/css/modules/_outer-nav.sass
+  original/global @codingtemplate/assets/css/modules/_section.sass
+  original/global @codingtemplate/assets/css/modules/_side-nav.sass
+  original/global @codingtemplate/assets/css/modules/_work.sass
+  original/global @codingtemplate/assets/img/about-history.jpg
+  original/global @codingtemplate/assets/img/about-philosophy.jpg
+  original/global @codingtemplate/assets/img/about-visual.png
+  original/global @codingtemplate/assets/img/about-winners.jpg
+  original/global @codingtemplate/assets/img/contact-visual.png
+  original/global @codingtemplate/assets/img/introduction-visual.png
+  original/global @codingtemplate/assets/img/lis-moi.txt
+  original/global @codingtemplate/assets/img/logo.png
+  original/global @codingtemplate/assets/img/work-alex-nowak.jpg
+  original/global @codingtemplate/assets/img/work-metiew-smith.jpg
+  original/global @codingtemplate/assets/img/work-victory.jpg
+  original/global @codingtemplate/assets/js/functions-min.js
+  original/global @codingtemplate/assets/js/functions.js
+  original/global @codingtemplate/assets/js/lis-moi.txt
+  original/global @codingtemplate/assets/js/vendor/hammer-2.0.8.js
+  original/global @codingtemplate/assets/js/vendor/jquery-2.2.4.min.js
+  index.html
+  README.md
+  PROVENANCE_LICENSE.txt
+  TREE
